@@ -1,4 +1,4 @@
-name: Pruebas unitarias con validacion
+name: Pruebas unitarias con ssh
 on:
   push:
     branches: [ master ]
